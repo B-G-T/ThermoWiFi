@@ -7,5 +7,6 @@ Hardware:
 ESP8266 board with very simple connection to serial port of thermometer (2 resistor as voltage divider, wire, plug, ...)
 
 Other SW:  
-SerialComInstruments (V0.9)
+Arduino IDE
+SerialComInstruments (V0.9) for data logging
 
