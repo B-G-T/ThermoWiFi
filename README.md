@@ -4,9 +4,9 @@ Very simple WiFi interface for thermocouple thermometers like sold by Conrad (Vo
 Uses UDP broadcasts for transmitting the measured temperature to the logging server.
 
 Hardware:  
-ESP8266 board with very simple connection to serial port of thermometer (2 resistor as voltage divider, wire, plug, ...)
+* ESP8266 board with very simple connection to serial port of thermometer (2 resistor as voltage divider, wire, plug, ...)
 
 Other SW:  
-Arduino IDE
-SerialComInstruments (V0.9) for data logging
+* Arduino IDE
+* SerialComInstruments (V0.9) for data logging
 
